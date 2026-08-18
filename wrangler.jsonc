@@ -12,7 +12,7 @@
     {
       "binding": "DB",
       "database_name": "cffk_db",
-      "migrations_dir": "database/migrations",
+      "migrations_dir": "database/migrations","database_id": "bc10fdb5-13df-4725-bbf6-1e973ec1fa0c",
       // "database_id": "5872a307-76d7-40cb-8f89-ab370eeaad3d" // 一键部署必须注释
     }
   ],
